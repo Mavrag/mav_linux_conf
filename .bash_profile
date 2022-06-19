@@ -10,5 +10,3 @@ fi
 PATH=$PATH:$HOME/bin
 
 export PATH
-
-[ ! -s ~/.plesk_banner ] || . ~/.plesk_banner
