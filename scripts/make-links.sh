@@ -5,3 +5,4 @@ rm ~/.zshrc
 ln -s ~/mav_linux_conf/.zshrc ~/.zshrc
 rm ~/.p10k.zsh
 ln -s ~/mav_linux_conf/.p10k.zsh ~/.p10k.zsh
+ln -s !/mav_linux_conf/.ssh/config ~/.ssh/config
